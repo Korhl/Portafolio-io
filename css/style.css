@@ -704,6 +704,7 @@ section.formcontato{
 }
 
 .formcontato__contacto{
+    gap: 1vh;
     padding: 0rem;
 }
 
